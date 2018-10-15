@@ -1,0 +1,9 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "declarationDir": "../../.lambda",
+    "outDir": ".lambda",
+    "lib": [ "ES2015", "ES2017" ]
+  },
+  "include": [ "./ts/**/*.ts" ],
+}
