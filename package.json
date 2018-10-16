@@ -12,7 +12,7 @@
     "build": "webpack --config ./webpack.js",
     "build:client": "webpack --config ./src/client/webpack.js",
     "build:lambda": "webpack --config ./src/lambda/webpack.js",
-    "serve": "netlify-local -n netlify.toml -w webpack.js"
+    "serve": "netlify-local serve -n netlify.toml -w webpack.js"
   },
   "devDependencies": {
     "@types/node": "^10.11.7",
