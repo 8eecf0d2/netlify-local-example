@@ -1779,9 +1779,9 @@ neo-async@^2.5.0:
   version "2.5.2"
   resolved "https://registry.npmjs.org/neo-async/-/neo-async-2.5.2.tgz#489105ce7bc54e709d736b195f82135048c50fcc"
 
-netlify-local@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/netlify-local/-/netlify-local-1.0.2.tgz#8b20b1bfae092df1b9a737f21ce903a71f339da4"
+netlify-local@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/netlify-local/-/netlify-local-1.0.3.tgz#b222b404f29420342a1a89084b12afd36bba17cf"
   dependencies:
     body-parser "^1.18.3"
     commander "^2.19.0"
